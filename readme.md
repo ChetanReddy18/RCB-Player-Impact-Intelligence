@@ -805,5 +805,26 @@ The project demonstrates practical experience in Python, SQL, MySQL, Power BI, D
 - ✅ SQL analytics
 - ✅ Power BI dashboard
 - ✅ Project documentation
+## 📊 Power BI Dashboard
 
+### Overview
+![Overview](Images/overview.png)
+
+### Batting Analysis
+![Batting](Images/batting.png)
+
+### Bowling Analysis
+![Bowling](Images/bowling.png)
+
+### Player Impact
+![Players](Images/players.png)
+
+### Opponent Analysis
+![Opponents](Images/opponents.png)
+
+### Venue Analysis
+![Venues](Images/venues.png)
+
+### Insights
+![Insights](Images/insights.png)
 
