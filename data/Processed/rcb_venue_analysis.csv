@@ -1,0 +1,56 @@
+venue,city,matches,wins,losses,no_results,decided_matches,win_percentage,runs_scored,wickets_taken,avg_runs_per_match
+M Chinnaswamy Stadium,Bangalore,61,28,30,3,58,48.28,9201,313,150.84
+"M Chinnaswamy Stadium, Bengaluru",Bengaluru,24,13,11,0,24,54.17,4278,143,178.25
+M.Chinnaswamy Stadium,Bengaluru,15,8,6,1,14,57.14,2503,85,166.87
+Eden Gardens,Kolkata,10,4,6,0,10,40.0,1484,47,148.4
+"Wankhede Stadium, Mumbai",Mumbai,10,7,3,0,10,70.0,1793,56,179.3
+Wankhede Stadium,Mumbai,10,3,7,0,10,30.0,1608,48,160.8
+Dubai International Cricket Stadium,,9,4,4,1,8,50.0,1273,49,141.44
+"Rajiv Gandhi International Stadium, Uppal",Hyderabad,8,2,5,1,7,28.57,1136,39,142.0
+"Narendra Modi Stadium, Ahmedabad",Ahmedabad,8,4,4,0,8,50.0,1297,41,162.12
+"MA Chidambaram Stadium, Chepauk",Chennai,8,2,6,0,8,25.0,1211,49,151.38
+Sawai Mansingh Stadium,Jaipur,7,3,4,0,7,42.86,1019,30,145.57
+Feroz Shah Kotla,Delhi,7,5,2,0,7,71.43,1095,47,156.43
+Sheikh Zayed Stadium,Abu Dhabi,6,2,4,0,6,33.33,737,29,122.83
+"MA Chidambaram Stadium, Chepauk, Chennai",Chennai,5,4,1,0,5,80.0,828,35,165.6
+"Punjab Cricket Association Stadium, Mohali",Chandigarh,5,2,3,0,5,40.0,716,21,143.2
+Sharjah Cricket Stadium,,5,2,3,0,5,40.0,735,25,147.0
+Kingsmead,Durban,4,3,1,0,4,75.0,557,22,139.25
+"Bharat Ratna Shri Atal Bihari Vajpayee Ekana Cricket Stadium, Lucknow",Lucknow,4,2,2,0,4,50.0,712,20,178.0
+"Eden Gardens, Kolkata",Kolkata,4,2,2,0,4,50.0,700,27,175.0
+New Wanderers Stadium,Johannesburg,4,3,1,0,4,75.0,545,22,136.25
+Maharashtra Cricket Association Stadium,Pune,4,2,2,0,4,50.0,556,23,139.0
+"Dr DY Patil Sports Academy, Mumbai",Mumbai,4,2,2,0,4,50.0,656,26,164.0
+"Arun Jaitley Stadium, Delhi",Delhi,3,2,1,0,3,66.67,411,20,137.0
+SuperSport Park,Centurion,3,2,1,0,3,66.67,435,11,145.0
+Dubai International Cricket Stadium,Dubai,3,3,0,0,3,100.0,458,24,152.67
+"Brabourne Stadium, Mumbai",Mumbai,3,0,3,0,3,0.0,364,13,121.33
+St George's Park,Port Elizabeth,3,0,3,0,3,0.0,347,10,115.67
+"Sawai Mansingh Stadium, Jaipur",Jaipur,3,2,1,0,3,66.67,505,17,168.33
+Sharjah Cricket Stadium,Sharjah,3,1,2,0,3,33.33,430,15,143.33
+"Maharashtra Cricket Association Stadium, Pune",Pune,3,2,1,0,3,66.67,410,20,136.67
+JSCA International Stadium Complex,Ranchi,3,1,2,0,3,33.33,373,15,124.33
+"Himachal Pradesh Cricket Association Stadium, Dharamsala",Dharamsala,3,3,0,0,3,100.0,695,27,231.67
+"Rajiv Gandhi International Stadium, Uppal, Hyderabad",Hyderabad,3,2,1,0,3,66.67,571,17,190.33
+Saurashtra Cricket Association Stadium,Rajkot,2,1,1,0,2,50.0,386,10,193.0
+Subrata Roy Sahara Stadium,Pune,2,2,0,0,2,100.0,339,17,169.5
+Dr DY Patil Sports Academy,Mumbai,2,1,1,0,2,50.0,222,14,111.0
+Arun Jaitley Stadium,Delhi,2,1,1,0,2,50.0,342,9,171.0
+Holkar Cricket Stadium,Indore,2,1,1,0,2,50.0,232,9,116.0
+"Shaheed Veer Narayan Singh International Stadium, Raipur",Raipur,2,2,0,0,2,100.0,332,10,166.0
+"Zayed Cricket Stadium, Abu Dhabi",Abu Dhabi,2,0,2,0,2,0.0,220,8,110.0
+Rajiv Gandhi International Stadium,Hyderabad,2,0,2,0,2,0.0,241,9,120.5
+Newlands,Cape Town,2,1,1,0,2,50.0,282,14,141.0
+Brabourne Stadium,Mumbai,1,1,0,0,1,100.0,153,9,153.0
+MA Chidambaram Stadium,Chennai,1,0,1,0,1,0.0,66,3,66.0
+Himachal Pradesh Cricket Association Stadium,Dharamsala,1,0,1,0,1,0.0,112,2,112.0
+"Barsapara Cricket Stadium, Guwahati",Guwahati,1,0,1,0,1,0.0,188,4,188.0
+"Maharaja Yadavindra Singh International Cricket Stadium, Mullanpur",Mohali,1,1,0,0,1,100.0,158,5,158.0
+"Punjab Cricket Association IS Bindra Stadium, Mohali",Chandigarh,1,1,0,0,1,100.0,171,3,171.0
+Punjab Cricket Association IS Bindra Stadium,Chandigarh,1,1,0,0,1,100.0,173,4,173.0
+"Punjab Cricket Association IS Bindra Stadium, Mohali, Chandigarh",Chandigarh,1,1,0,0,1,100.0,162,8,162.0
+Nehru Stadium,Kochi,1,1,0,0,1,100.0,149,5,149.0
+"Maharaja Yadavindra Singh International Cricket Stadium, Mullanpur",New Chandigarh,1,1,0,0,1,100.0,102,10,102.0
+"Sardar Patel Stadium, Motera",Ahmedabad,1,1,0,0,1,100.0,129,8,129.0
+Shaheed Veer Narayan Singh International Stadium,Raipur,1,1,0,0,1,100.0,129,7,129.0
+"Vidarbha Cricket Association Stadium, Jamtha",Nagpur,1,0,1,0,1,0.0,125,5,125.0

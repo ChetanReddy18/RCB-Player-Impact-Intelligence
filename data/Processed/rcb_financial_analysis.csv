@@ -1,0 +1,23 @@
+player,financial_seasons,total_recorded_investment_crore,average_recorded_price_crore,highest_recorded_price_crore,role,matches,player_impact_score,batting_matches,career_runs,bowling_matches,career_wickets,impact_per_recorded_crore,runs_per_recorded_crore,wickets_per_recorded_crore
+V Kohli,1,0.12,0.12,0.12,Batter,275.0,87.36,275.0,9346.0,26.0,4.0,728.0,77883.33,33.33
+R Vinay Kumar,1,0.12,0.12,0.12,Bowler,63.0,65.66,28.0,237.0,63.0,72.0,547.17,1975.0,600.0
+Misbah-ul-Haq,1,0.18,0.18,0.18,Batter,8.0,20.04,8.0,117.0,,,111.33,650.0,
+Abdur Razzak,1,0.29,0.29,0.29,Bowler,1.0,29.86,1.0,0.0,1.0,0.0,102.97,0.0,0.0
+MV Boucher,1,0.45,0.45,0.45,Batter,21.0,25.97,21.0,388.0,,,57.71,862.22,
+LRPL Taylor,1,0.5,0.5,0.5,Batter,22.0,28.33,22.0,517.0,1.0,0.0,56.66,1034.0,0.0
+DW Steyn,1,1.2,1.2,1.2,Bowler,33.0,51.48,8.0,16.0,33.0,32.0,42.9,13.33,26.67
+Z Khan,1,1.5,1.5,1.5,Bowler,43.0,58.04,13.0,67.0,43.0,49.0,38.69,44.67,32.67
+S Chanderpaul,1,0.32,0.32,0.32,Batter,3.0,10.36,3.0,25.0,,,32.38,78.12,
+P Kumar,1,1.6,1.6,1.6,Bowler,38.0,51.28,23.0,181.0,38.0,34.0,32.05,113.12,21.25
+A Kumble,1,2.0,2.0,2.0,Bowler,42.0,61.08,15.0,35.0,42.0,45.0,30.54,17.5,22.5
+CL White,1,1.1,1.1,1.1,Batter,13.0,19.76,13.0,162.0,2.0,0.0,17.96,147.27,0.0
+R Dravid,1,2.28,2.28,2.28,Batter,37.0,27.51,37.0,898.0,,,12.07,393.86,
+JH Kallis,1,3.6,3.6,3.6,Batter,42.0,30.17,42.0,1132.0,41.0,23.0,8.38,314.44,6.39
+Ashley Noffke,1,0.45,0.45,0.45,,,,,,,,,,
+Balachandra Akhil,1,0.15,0.15,0.15,,,,,,,,,,
+Bharat Chipli,1,0.2,0.2,0.2,,,,,,,,,,
+Devraj Patil,1,0.2,0.2,0.2,,,,,,,,,,
+Jagadeesh Arunkumar,1,0.2,0.2,0.2,,,,,,,,,,
+Shreevats Goswami,1,0.1,0.1,0.1,,,,,,,,,,
+Sunil Joshi,1,0.2,0.2,0.2,,,,,,,,,,
+Wasim Jaffer,1,0.45,0.45,0.45,,,,,,,,,,
